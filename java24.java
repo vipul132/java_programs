@@ -1,4 +1,4 @@
-//Java program to reverse a String
+//Java program to reverse a String (Reverse order)
 import java.util.Scanner;
 
 public class java24 {
