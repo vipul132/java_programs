@@ -24,3 +24,18 @@ public class java28{
 
     }
 }
+
+
+
+// Formula
+// abc = a³ + b³ + c³
+
+// Example:
+
+// 153
+
+// Calculation:
+
+// 1³ + 5³ + 3³
+// = 1 + 125 + 27
+// = 153
